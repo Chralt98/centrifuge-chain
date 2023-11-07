@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"macro":[["impl_mock_accountant","Exposes a struct $name that implements the `trait Accountant`. The struct expects one generic parameter that implements the fungibles traits `Inspect`, `Mutate` and `Transfer`."]]};

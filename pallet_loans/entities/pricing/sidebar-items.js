@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["ActivePricing","Pricing attributes for active loans"],["Pricing","Loan pricing method"]],"mod":[["external",""],["internal",""]]};

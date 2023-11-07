@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["IdentityPoolCurrencyConverter","Simple currency converter which maps the amount of the outgoing currency to the precision of the incoming one. E.g., the worth of 100 EthWrappedDai in USDC."],["NativeBalanceDecimalConverter","Provides means of applying the decimals of an incoming currency to the amount of an outgoing currency."]]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["Change","Change description"],["InternalMutation","Active loan mutation for internal pricing"],["LoanMutation","Active loan mutation"]]};
